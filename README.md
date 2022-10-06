@@ -2,26 +2,46 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I%27m+Kylie+%F0%9F%91%8B;&center=true&size=30" />
  </div>
 
-<h3 align="center">Technologies</h3>
+<h3 align="center">🚀 Skills</h3>
 <p align="center"> 
-<a href="https://www.w3schools.com/css/"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+<a href="https://www.w3schools.com/css/css_intro.asp"> 
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
 </a> 
   
-<a href="https://www.w3.org/html/"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+<a> 
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
 </a> 
   
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+<a> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
 </a>
   
 <a href="https://reactjs.org/">
-<img src="https://raw.githubusercontent.com/reactjs/reactjs.org/main/src/icons/logo.svg" alt="react" width="40" height="40"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </a>
 </p>
 
+<h3 align="center">☁ Hosting/SaaS</h3>
+<div align="center">
+<a>
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+</a>
+
+<a>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</div>
+
 <h3 align="center">Socials</h3>
+<div align="center"/>
+<a>
+<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+</a>
+
+<a>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</div>
 
 <h3 align="center">Stats</h3>
 <p align="center">
