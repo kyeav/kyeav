@@ -2,7 +2,7 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I%27m+Kylie+%F0%9F%91%8B;&center=true&size=30" />
  </div>
 
-<h3 align="center">🚀 Skills</h3>
+<h2 align="center">🚀 Skills</h2>
 <p align="center"> 
 <a href="https://www.w3schools.com/css/css_intro.asp"> 
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
@@ -21,7 +21,7 @@
 </a>
 </p>
 
-<h3 align="center">☁ Hosting/SaaS</h3>
+<h2 align="center">☁ Hosting/SaaS</h2>
 <div align="center">
 <a>
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
@@ -32,7 +32,7 @@
 </a>
 </div>
 
-<h3 align="center">Socials</h3>
+<h2 align="center">Socials</h2>
 <div align="center"/>
 <a>
 <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
@@ -43,7 +43,7 @@
 </a>
 </div>
 
-<h3 align="center">Stats</h3>
+<h2 align="center">Stats</h2>
 <p align="center">
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs?username=kyeav&show_icons=true&locale=en&layout=compact&theme=dark" alt="kyeav">
