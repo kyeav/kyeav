@@ -56,10 +56,6 @@
 </div>
 
 <h2 align="center">Stats</h2>
-<p align="center">
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs?username=kyeav&show_icons=true&locale=en&layout=compact&theme=dark" alt="kyeav">
-</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kyeav&show_icons=true&locale=en&theme=dark" alt="kyeav" />
