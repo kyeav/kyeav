@@ -2,7 +2,7 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I%27m+Kylie+%F0%9F%91%8B;&center=true&size=30" />
  </div>
 
-<h2 align="center">🚀 Skills</h2>
+<h2 align="center">🚀 Languages, Frameworks & Libraries</h2>
 <p align="center"> 
 <a href="https://www.w3schools.com/css/css_intro.asp"> 
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
@@ -22,6 +22,38 @@
  
 <a>
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</a>
+
+<a>
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+</a>
+ 
+<a>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+</a>
+ 
+<a>
+<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+</a>
+
+<a>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+</a>
+ 
+<a>
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+</a>
+ 
+<a>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</a>
+ 
+<a>
+<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"/>
+</a>
+ 
+<a>
+<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
 </a>
 </p>
 
@@ -56,6 +88,10 @@
  
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyeav&&theme=dark" alt="kyeav" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kyeav&theme=dark" alt="kyeav" />
 </p>
 
 <!---
