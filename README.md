@@ -4,7 +4,7 @@
 
 <h2 align="center">🚀 Languages, Frameworks & Libraries</h2>
 <p align="center"> 
-<a href="https://www.w3schools.com/css/css_intro.asp"> 
+<a> 
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
 </a> 
   
@@ -63,7 +63,7 @@
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </a>
 
-<a href="https://vercel.com/kyeav">
+<a href="https://vercel.com/kyeav" target="_blank">
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 </div>
@@ -74,7 +74,7 @@
 <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 </a>
 
-<a href="https://www.linkedin.com/in/kylie-a-824875237/">
+<a href="https://www.linkedin.com/in/kylie-a-824875237/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
