@@ -55,6 +55,14 @@
 <a>
 <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
 </a>
+ 
+<a>
+<img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white"/>
+</a>
+ 
+<a>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+</a>
 </p>
 
 <h2 align="center">☁ Hosting/SaaS</h2>
