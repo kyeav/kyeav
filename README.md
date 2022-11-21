@@ -1,6 +1,8 @@
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I%27m+Kylie+%F0%9F%91%8B;&center=true&size=30" />
  </div>
+ 
+ <p align="center">🧠 I'm currently learning Solidity, Web3.js and Hardhat.<p>
 
 <h2 align="center">🚀 Languages, Frameworks & Libraries</h2>
 <p align="center"> 
