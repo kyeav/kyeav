@@ -51,10 +51,6 @@
 </a>
  
 <a>
-<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"/>
-</a>
- 
-<a>
 <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
 </a>
  
@@ -76,6 +72,11 @@
  
 <a>
 <img src="https://img.shields.io/badge/PostCSS-DD3A0A.svg?style=for-the-badge&logo=PostCSS&logoColor=white"/>
+</a>
+
+ 
+<a>
+<img src="https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white"/>
 </a>
 </p>
 
