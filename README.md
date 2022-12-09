@@ -65,6 +65,10 @@
 <a>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </a>
+ 
+<a>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+</a>
 </p>
 
 <h2 align="center">☁ Hosting/SaaS</h2>
