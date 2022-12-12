@@ -73,14 +73,17 @@
 <a>
 <img src="https://img.shields.io/badge/PostCSS-DD3A0A.svg?style=for-the-badge&logo=PostCSS&logoColor=white"/>
 </a>
-
  
 <a>
 <img src="https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white"/>
 </a>
+ 
+<a>
+<img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"/>
+</a>
 </p>
 
-<h2 align="center">☁ Hosting/SaaS</h2>
+<h2 align="center">☁ Hosting</h2>
 <div align="center">
 <a>
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
@@ -88,6 +91,10 @@
 
 <a href="https://vercel.com/kyeav" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+ 
+<a>
+<img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white"/>
 </a>
 </div>
 
