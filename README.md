@@ -4,7 +4,7 @@
  
  <p align="center">🧠 I'm currently learning Node.js<p>
 
-<h2 align="center">🚀 Languages, Frameworks & Libraries</h2>
+<h2 align="center">🚀 Languages, Frameworks, Libraries & Tools</h2>
 <p align="center"> 
 <a> 
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
@@ -81,6 +81,14 @@
 <a>
 <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"/>
 </a>
+ 
+<a>
+<img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white"/>
+</a>
+ 
+<a>
+<img src="https://img.shields.io/badge/React%20Query-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=white"/>
+</a> 
 </p>
 
 <h2 align="center">☁ Hosting</h2>
