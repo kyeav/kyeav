@@ -2,7 +2,7 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I%27m+Kylie+%F0%9F%91%8B;&center=true&size=30" />
  </div>
  
- <p align="center">🧠 I'm currently learning Node.js<p>
+ <p align="center">🧠 I'm currently learning ...<p>
 
 <h2 align="center">🚀 Languages, Frameworks, Libraries & Tools</h2>
 <p align="center"> 
